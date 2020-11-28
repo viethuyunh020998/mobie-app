@@ -1,0 +1,16 @@
+vi:
+  user_controller:
+    success: "Tao tài khoản thành công"
+    unsuccess: "Tạo tài khoản không thành công"
+  user_new:
+    h5: <h5 class="card-title text-center">Đăng kí tài khoản</h5>
+    usename: "Tên Đăng Nhập"
+    email: "Địa chỉ Email"
+    password: "Mật Khẩu"
+    password_confirmation: "Xác Nhận Mật Khẩu"
+    signin: "Đăng nhập"
+    gooole: "Đăng nhập bằng Google"
+    facebook: "Đăng nhập bằng FaceBook"
+    createaccount: "tạo tài khoản"
+    male: "Nam"
+    female: "Nữ"
