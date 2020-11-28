@@ -1,0 +1,4 @@
+vi:
+  user_controller:
+  success: "Tao tài khoản thành công"
+  unsuccess: "Tạo tài khoản không thành công"

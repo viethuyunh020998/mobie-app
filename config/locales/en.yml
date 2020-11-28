@@ -1,0 +1,4 @@
+en:
+  user_controller:
+    success: "Create user successfully"
+    unsuccess: "Create user unsuccessfully"

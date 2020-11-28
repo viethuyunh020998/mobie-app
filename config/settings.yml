@@ -1,0 +1,10 @@
+model:
+  user:
+    email_max: 255
+    max_firstname: 50
+    max_lastname: 50
+    max_username: 255
+    password_mini: 6
+    address_max: 255
+    gender_male: male
+    gender_female: female
